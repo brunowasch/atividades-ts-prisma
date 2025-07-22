@@ -76,3 +76,17 @@ Rode o desafioFinal com o seguinte comando:
 ```
 npx ts-node desafioFinal/src/index.ts
 ```
+
+
+### Obs:
+Para rodar os comandos, é necessário usar:
+```
+ts-node arquivo.ts
+```
+Ou, caso tenha Prisma:
+```
+npx ts-node arquivo.ts
+```
+## Autor:
+Nome: Bruno Waschburger Silva
+Turma: Info 63 2
